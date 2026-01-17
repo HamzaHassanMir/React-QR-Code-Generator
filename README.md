@@ -23,7 +23,7 @@ Styling: Custom CSS3
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/HamzaHassanMir/qr-code-generator.git
 cd qr-code-generator
 ```
 
