@@ -42,3 +42,6 @@ npm run dev
 npm run build
 ```
    
+Preview
+
+<img width="1920" height="954" alt="Preview" src="https://github.com/user-attachments/assets/7eb3853a-5870-4fd4-bbe6-860d48c56d87" />
